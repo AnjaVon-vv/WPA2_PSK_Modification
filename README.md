@@ -16,3 +16,6 @@ SMS4加密、Michael计算MIC
 先运行Authenticator，然后运行Supplicant。
 
 P.S.可能存在点小问题，有空回来调通。
+
+## 预期效果
+![](https://img-blog.csdnimg.cn/20200615213639969.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzQxMTM1NDg3,size_16,color_FFFFFF,t_70)
